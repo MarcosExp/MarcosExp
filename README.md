@@ -1,7 +1,7 @@
 - Hi, I’m @MarcosExp
 - I’m interested in coding and software develompent.
 - I’m currently learning app develompent.
-- I’m looking to collaborate on ...
+- I’m looking to collaborate on python repositories
 - How to reach me: expositomarcos02@gmail.com
 
 

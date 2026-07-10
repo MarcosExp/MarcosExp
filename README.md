@@ -54,7 +54,7 @@ On my way to <b>Research Engineer</b>: from using models to building them from s
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosExp&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <sub>⚡ Outside of code: competitive <b>League of Legends</b> analyst — strategy and data analysis drive me too.</sub>
